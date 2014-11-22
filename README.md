@@ -1,6 +1,4 @@
 hello-world
 ===========
 
-Let's just say hello.
-
-So... hello!
+Let's just say hello
